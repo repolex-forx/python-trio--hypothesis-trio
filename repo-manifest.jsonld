@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/hypothesis-trio/commit/84250f4e35491e55959eff1d48a420b18aa98e60",
       "git:hexsha": "84250f4e35491e55959eff1d48a420b18aa98e60",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/hypothesis-trio/commit/f49231dcf886f78c4d94161fe5b08744d649429a",

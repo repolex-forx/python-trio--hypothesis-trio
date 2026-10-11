@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "hypothesis-trio",
+  "versions": [
+    {
+      "commit": "84250f4e35491e55959eff1d48a420b18aa98e60",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:15:00.887248+00:00"
+    }
+  ]
+}
